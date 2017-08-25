@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuite tests="1" failures="0" name="org.forkjoin.core.NumberTest" time="0" errors="0" skipped="0">
   <properties>
+    <property name="idea.version" value="2017.2.2"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/home/happy/software/jdk/jre/lib/amd64"/>
     <property name="java.vm.version" value="25.144-b01"/>
@@ -25,26 +26,24 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Linux"/>
-    <property name="classworlds.conf" value="/home/happy/software/maven/bin/m2.conf"/>
+    <property name="classworlds.conf" value="/home/happy/software/idea/plugins/maven/lib/maven3/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
-    <property name="maven.conf" value="/home/happy/software/maven/conf"/>
+    <property name="java.library.path" value="/home/happy/software/idea/bin::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="4.10.0-19-generic"/>
-    <property name="library.jansi.path" value="/home/happy/software/maven/lib/jansi-native/linux64"/>
     <property name="user.home" value="/home/happy"/>
     <property name="user.timezone" value="Asia/Shanghai"/>
     <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="user.name" value="happy"/>
-    <property name="java.class.path" value="/home/happy/software/maven/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.class.path" value="/home/happy/software/idea/plugins/maven/lib/maven3/boot/plexus-classworlds-2.5.2.jar:/home/happy/software/idea/lib/idea_rt.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/home/happy/software/jdk/jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher install"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2017.2.2 install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -54,7 +53,7 @@
     <property name="securerandom.source" value="file:/dev/./urandom"/>
     <property name="sun.boot.class.path" value="/home/happy/software/jdk/jre/lib/resources.jar:/home/happy/software/jdk/jre/lib/rt.jar:/home/happy/software/jdk/jre/lib/sunrsasign.jar:/home/happy/software/jdk/jre/lib/jsse.jar:/home/happy/software/jdk/jre/lib/jce.jar:/home/happy/software/jdk/jre/lib/charsets.jar:/home/happy/software/jdk/jre/lib/jfr.jar:/home/happy/software/jdk/jre/classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="/home/happy/software/maven"/>
+    <property name="maven.home" value="/home/happy/software/idea/plugins/maven/lib/maven3"/>
     <property name="file.separator" value="/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>

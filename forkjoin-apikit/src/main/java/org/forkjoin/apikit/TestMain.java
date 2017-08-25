@@ -11,6 +11,11 @@ import java.lang.reflect.Type;
  * @author zuoge85@gmail.com on 2017/6/13.
  */
 public class TestMain {
+    /**
+     * CESHI
+     * @param args
+     * @throws NoSuchMethodException
+     */
     public static void main(String[] args) throws NoSuchMethodException {
         int[] aaa;
         System.out.println(int.class.isPrimitive());

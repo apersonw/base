@@ -1,0 +1,5 @@
+org.forkjoin.jdbckit.core
+org.forkjoin.jdbckit.core.identifier
+org.forkjoin.jdbckit.core.impi
+org.forkjoin.jdbckit.core.select
+org.forkjoin.jdbckit.core.utils

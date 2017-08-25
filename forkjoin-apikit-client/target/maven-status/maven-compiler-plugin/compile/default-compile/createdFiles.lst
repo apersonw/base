@@ -1,0 +1,11 @@
+org/forkjoin/apikit/client/core/TypeConvert.class
+org/forkjoin/apikit/client/core/BaseTypeConvert.class
+org/forkjoin/apikit/client/core/JacksonJsonConvert$1.class
+org/forkjoin/apikit/client/OkHttpClientAdapter$CallFuture.class
+org/forkjoin/apikit/client/AbstractHttpClientAdapter.class
+org/forkjoin/apikit/client/OkHttpClientAdapter$1.class
+org/forkjoin/apikit/client/core/JacksonJsonSerialize.class
+org/forkjoin/apikit/client/core/JacksonJsonConvert.class
+org/forkjoin/apikit/client/core/JsonSerialize.class
+org/forkjoin/apikit/client/OkHttpClientAdapter.class
+org/forkjoin/apikit/client/core/JsonConvert.class

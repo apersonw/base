@@ -1,0 +1,10 @@
+org.forkjoin.apikit
+org.forkjoin.apikit.cli
+org.forkjoin.apikit.generator
+org.forkjoin.apikit.generator.apidoc
+org.forkjoin.apikit.generator.jdt
+org.forkjoin.apikit.impl
+org.forkjoin.apikit.info
+org.forkjoin.apikit.jgit
+org.forkjoin.apikit.utils
+org.forkjoin.apikit.wrapper

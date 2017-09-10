@@ -20,7 +20,7 @@ import java.util.concurrent.ExecutionException;
 /**
  * 所有操作应该注意原子问题
  * redis 操作应该在redis 事务内执行
- * 数据库炒作应该放在最后!
+ * 数据库操作应该放在最后!
  */
 public class EntityCache<K extends KeyObject, V extends EntityObject> extends Cache<String, V> {
     public static final int MAX_SECONDS = 10;

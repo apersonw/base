@@ -1,7 +1,6 @@
 package org.forkjoin.apikit.spring;
 
 import com.fasterxml.jackson.core.JsonEncoding;
-import org.forkjoin.apikit.core.Result;
 import org.forkjoin.apikit.spring.utils.JsonUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

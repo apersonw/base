@@ -20,8 +20,6 @@ public abstract class AccountHandlerInterceptor<T> extends HandlerInterceptorAda
 
     @Override
     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
-
-
         if (handler instanceof HandlerMethod) {
             HandlerMethod handlerMethod = (HandlerMethod) handler;
             //默认都需要权限

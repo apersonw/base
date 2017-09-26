@@ -15,7 +15,6 @@ public class SqlUtils {
         return (obj == null) ? "" : fieldFilter(obj.toString());
     }
 
-
     public static String nameFilter(String sql){
         return sql.trim().replace("`","``");
     }
